@@ -5,10 +5,10 @@
 
 This repository contains a simple Number Guessing Game implemented in Java.
 
-## NumberGame.java
+## Number_Game.java
 
 ### Description
-The `NumberGame.java` file hosts a console-based number guessing game where the player attempts to guess a randomly generated number within a specified range. The game allows multiple rounds and keeps track of the player's score based on the number of correct guesses.
+The `Number_Game.java` file hosts a console-based number guessing game where the player attempts to guess a randomly generated number within a specified range. The game allows multiple rounds and keeps track of the player's score based on the number of correct guesses.
 
 ### How to Play
 1. The game generates a random number between 1 and 100.
@@ -26,8 +26,8 @@ The `NumberGame.java` file hosts a console-based number guessing game where the 
 ### Usage
 To run the game:
 ```bash
-javac NumberGame.java
-java NumberGame
+javac Number_Game.java
+java Number_Game
 ```
 
 ### Author
